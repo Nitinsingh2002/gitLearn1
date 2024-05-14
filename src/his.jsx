@@ -12,6 +12,10 @@ export function His (){
           <div>
             this is HiS-301 
             this task is completed by sarubh
+
+            this is HiS-300 
+            this task is completed by dilip
+
           </div>
         </>
     )
